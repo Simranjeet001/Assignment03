@@ -48,7 +48,7 @@ public class SolutionOne {
         }
 
         /**
-         * this is the extra try catch to show that ExceptionOne can catch itself too i addition with its other subclasses.
+         * this is the extra part to show that ExceptionOne can catch itself too i addition with its other subclasses.
          * throw the exception one
          */
         try {
